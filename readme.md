@@ -1,4 +1,4 @@
-# 奥利给作文生成器（[基于满分作文生成器](https://github.com/BeautyYuYanli/full-mark-composition-generator)
+# 奥利给作文生成器（[基于满分作文生成器](https://github.com/BeautyYuYanli/full-mark-composition-generator)）
 
 ## 概述
 
